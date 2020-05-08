@@ -1,0 +1,1992 @@
+a	aa
+ability	oo-bii-loo-tea
+able	ei-bool
+about	oo-baut
+above	oo-biav
+accept	aek-seept
+according	oo-koa-diing
+account	oo-kaunt
+across	oo-kroes
+act	aekt
+action	aek-xoon
+actions	aek-xoonz
+active	aek-tiiv
+activity	aek-tii-vii-tea
+actually	aek-xuu-oo-lea
+add	aed
+address	oo-drees
+adds	aedz
+administration	ood-mii-noo-strei-xoon
+admit	ood-miit
+adult	ae-dialt
+advanced	ood-vaanst
+aesthetic	ees-cee-tiik
+aesthetically	ees-cee-tii-koo-lea
+affect	oo-feekt
+afraid	oo-freid
+after	aaf-too
+afterthought	aef-too-coat
+again	oo-geen
+against	oo-geenst
+age	eidj
+agency	ei-djoon-sea
+agent	ei-djoont
+ago	oo-gou
+agree	oo-grea
+agreement	oo-grea-moont
+ague	ei-gyue
+ahead	oo-heed
+air	eo
+alive	oo-laiv
+all	oal
+allow	oo-lau
+almost	oal-moust
+alone	oo-loun
+along	oo-loeng
+already	oal-ree-dea
+also	oal-sou
+although	oal-cou
+altogether	oal-tuu-gee-coo
+always	oal-weiz
+am	aem
+ammunition	ae-myue-nii-xoon
+among	oo-miang
+amount	oo-maunt
+an	aen
+analysis	oo-nae-lii-siis
+anarchy	ae-noo-kea
+and	aend
+anger	aen-goo
+angle	aen-gool
+angry	aen-grea
+animal	ae-nii-mool
+another	ae-nia-coo
+answer	aan-soo
+any	ee-nea
+anyone	ee-nii-wian
+anything	ee-nii-ciing
+anytime	ee-nii-taim
+apart	oo-paat
+appear	oo-pio
+apple	ae-pool
+apply	oo-plai
+appreciate	oo-prea-xea-eit
+approach	oo-proutx
+are	aar
+area	eo-rio
+argue	aa-gyue
+arm	aam
+army	aa-mea
+around	oo-raund
+arrange	oo-reindj
+arrive	oo-raiv
+art	aat
+article	aa-tii-kool
+artist	aa-tiist
+as	aez
+ask	aask
+assorted	oo-soa-tood
+assortment	oo-soat-moont
+assume	oo-syuem
+at	aet
+atom	aa-toom
+attached	oo-taetxt
+attack	oo-taek
+attention	oo-teen-xoon
+attorney	oo-tua-nea
+attract	oo-traekt
+audience	oa-dea-oons
+aunt	aant
+author	oa-coo
+authority	oa-coe-roo-tea
+autumn	oa-toom
+available	oo-vei-loo-bool
+avoid	oo-void
+away	oo-wei
+awe	oa
+baby	bei-bea
+back	baek
+bad	baed
+bade	baed
+bag	baeg
+bags	baegz
+baker	bei-koo
+balance	bae-loons
+baldric	boal-driik
+ball	boal
+band	baend
+bank	baenk
+bar	baa
+base	beis
+basic	bei-siik
+basket	baa-skiit
+bat	baet
+bath	baac
+battle	bae-tool
+battlefield	bae-tool-feald
+be	bea
+beach	beatx
+bean	bean
+bear	beo
+beat	beat
+beautiful	byue-tii-fool
+beauty	byue-tea
+because	bii-koez
+become	bii-kiam
+becomes	boo-kiamz
+bed	beed
+bedroom	beed-ruem
+been	bean
+beer	bio
+before	bii-foa
+began	bii-gaen
+begin	bii-giin
+behave	bii-heiv
+behavior	bii-hei-vyoo
+behind	bii-haind
+believe	bii-leav
+bell	beel
+below	bii-lou
+beneath	bii-neac
+benefit	bee-noo-fiit
+benevolence	boo-nee-voo-loons
+besides	boo-saidz
+best	beest
+better	bee-too
+between	bii-twean
+beyond	bea-yoend
+big	biig
+bill	biil
+billion	bii-lyoon
+bird	buad
+birth	buac
+birthday	buac-dei
+bit	biit
+bite	bait
+black	blaek
+blade	bleid
+bladed	blei-dood
+blades	bleidz
+bleak	bleak
+bleed	blead
+block	bloek
+blood	bliad
+blow	blou
+blowpipe	blou-paip
+blue	blue
+board	boad
+boat	bout
+body	boe-dea
+boil	boil
+bone	boun
+book	buuk
+boot	buet
+boots	buets
+border	boa-doo
+bored	boad
+born	boan
+borrow	boe-rou
+both	bouc
+bottle	boe-tool
+bottom	boe-toom
+bought	boat
+bow%a	bau
+bow%o	bou
+bowl	boul
+box	boeks
+boy	boi
+braille	breil
+branch	braantx
+brass	braas
+brave	breiv
+bread	breed
+break	breik
+breakfast	breek-foost
+breath	breec
+breathe	breac
+bred	breed
+brewer	bruu-oo
+bridge	briidj
+bright	brait
+bring	briing
+brings	briingz
+britain	brii-toon
+broad	broad
+broke	brouk
+brother	bria-coo
+brothers	bria-cooz
+brought	broat
+brown	braun
+brush	briax
+bubble	bia-bool
+budget	bia-djiit
+build	bild
+building	biil-diing
+burn	buan
+bus	bias
+bush	buux
+business	biiz-niis
+busy	bii-zea
+but	biat
+butcher	buu-txoo
+buy	bai
+by	bai
+cake	keik
+call	koal
+caltrops	kael-troops
+cambridge	keim-briidj
+came	keim
+camera	kae-moo-roo
+camp	kaemp
+campaign	kaem-pein
+can	kaen
+cancer	kaen-soo
+candidate	kaen-dii-doot
+candle	kaen-dool
+cannot	kae-noet
+cap	kaep
+capital	kae-pii-tool
+captain	kaep-tiin
+car	kaa
+card	kaad
+care	keo
+career	koo-riir
+careful	keo-fuul
+careless	keo-loos
+carry	kae-rea
+case	keis
+cash	kaex
+casual	kae-jue-ool
+cat	kaet
+catch	kaetx
+caught	koat
+cause	koaz
+cave	keiv
+cell	seel
+cells	seelz
+cent	seent
+center	seen-too
+centimeter	seen-tii-mea-too
+central	seen-trool
+century	seen-txoo-rea
+ceremony	see-rii-moo-nea
+certain	sua-toon
+certainly	sua-toon-lea
+chainmail	txein-meil
+chair	txeor
+challenge	txae-lloondj
+chance	txaans
+change	txeindj
+character	kae-rook-too
+charge	txaadj
+chart	txaat
+chase	txeis
+cheap	txeap
+check	txeek
+checked	txeekt
+cheese	txeaz
+cheesewire	txeaz-wair
+chew	tcue
+chick	txiik
+chicken	txii-kiin
+chief	txeaf
+child	txaild
+children	txiil-droon
+chill	txiil
+chocolate	txoe-koo-liit
+choice	txois
+choir	kwai-oo
+choose	txuez
+chord	koad
+church	txuatx
+circled	sua-koold
+circus	sua-koos
+civil	sii-vool
+clear	klio
+clever	klee-voo
+cloak	klouk
+coat	kout
+coded	kou-dood
+coil	koil
+cold	kould
+color	kia-loo
+colors	kia-looz
+come	kiam
+compare	koom-peo
+complicated	koem-plii-kei-tood
+conceived	koon-seavd
+consecrate	koen-soo-kreit
+consecrated	koen-soo-krei-tood
+consideration	koon-sii-doo-rei-xoon
+console	koen-soul
+container	koon-tei-noo
+continent	koen-tii-noont
+conviction	koon-viik-xoon
+cook	kuuk
+core	koa
+corked	koakt
+corps	koa
+corpse	koaps
+could	kuud
+couple	kia-pool
+cow	kau
+crazy	krei-zea
+created	krea-ei-tood
+creation	krii-ei-xoon
+creature	krii-txoo
+cricket	krii-kiit
+crossbow	kroes-bou
+cunning	kia-niing
+cup	kiap
+cymbal	siim-bool
+dagger	dae-goo
+dance	daans
+dark	daak
+darkened	daa-koond
+darts	daats
+day	dei
+dead	deed
+dear	dio
+dearest	dio-riist
+death	deec
+dedicate	dee-dii-keit
+dedicated	dee-dii-kei-tood
+deep	deap
+deer	dio
+delusion	dii-lue-joon
+detract	dii-traekt
+devices	doo-vai-soos
+devotion	dii-vou-xoon
+diamond	dai-moond
+did	diid
+died	daid
+dies	daiz
+diet	dai-oot
+dimension	dai-meen-xoon
+dimensions	dai-meen-xoonz
+dimmed	diimd
+dinner	dii-noo
+disappearing	dii-soo-pio-riing
+dizzy	dii-zea
+do	due
+does	diaz
+doesn't	dia-zoont
+don't	dount
+door	doa
+down	daun
+drawer	droa
+dress	drees
+drive	draiv
+driven	drii-voon
+dropped	droept
+drowned	draund
+dull	dial
+ear	io
+earth	uac
+ease	eaz
+eight	eit
+employ	iim-ploi
+endure	iin-dyuur
+engaged	een-geidjd
+english	iin-gliix
+equal	ea-kwool
+equate	ii-kweit
+escape	ii-skeip
+especially	ii-spee-xoo-lea
+establish	ii-stae-bliix
+even	ea-voon
+evening	ea-voo-niing
+event	ii-veent
+ever	ee-voo
+every	ee-vrea
+everybody	ee-vrea-boe-dea
+everyone	ee-vrea-wian
+everything	ee-vrea-ciing
+everywhere	ee-vrea-weo
+evidence	ee-vea-doons
+evolved	ii-voelvd
+exact	iig-zaekt
+exactly	iig-zaek-lea
+examination	iig-zae-mii-nei-xoon
+example	iig-zaam-pool
+except	iik-seept
+excite	iik-sait
+excited	iik-sai-tood
+excitement	iik-sait-moont
+executive	iig-zee-kyuu-tiiv
+exercise	eek-soo-saiz
+exist	iig-ziist
+expect	iik-speekt
+expensive	iik-speen-siiv
+experience	iik-spii-rea-oons
+experiment	iik-spee-rea-moont
+expert	eek-spoot
+explain	iik-splein
+extremely	iik-stream-lea
+eye	ai
+face	feis
+fact	faekt
+factor	faek-too
+fail	feil
+fair	feo
+falcon	foel-koon
+falconer	foel-koo-noo
+fall	foal
+false	foals
+family	fae-mii-lea
+famous	fei-moos
+far	faa
+farm	faam
+fast	faast
+fat	faet
+fate	feit
+father	faa-coo
+fathers	faa-cooz
+fault	foalt
+favor	fei-voo
+fear	fio
+federal	fee-doo-rool
+feed	fead
+feel	feal
+feeling	fea-liing
+feet	feat
+fell	feel
+felt	feelt
+female	fea-meil
+few	fyue
+field	feald
+fig	fiig
+fight	fait
+figure	fii-goo
+fill	fiil
+film	fiilm
+final	fai-nool
+finally	fai-noo-lea
+financial	fai-naen-xool
+find	faind
+fine	fain
+finger	fiin-goo
+finish	fii-niix
+finished	fii-nii-xt
+fire	fai-oo
+firm	fiirm
+first	fuast
+fish	fiix
+fit	fiit
+fitting	fii-tiing
+five	faiv
+fix	fiiks
+flag	flaeg
+flask	flaask
+flat	flaet
+flight	flait
+float	flout
+floor	floa
+flour	flau-oo
+flow	flou
+flower	flau-oo
+fly	flai
+focus	fou-koos
+foggy	foe-gea
+fold	fould
+folding	foul-diing
+follow	foe-lou
+food	fued
+fool	fuel
+foot	fuut
+football	fuut-boal
+for	foa
+force	foas
+forget	foo-geet
+forgive	foo-giiv
+fork	foak
+form	foam
+former	foa-moo
+forms	foamz
+forth	foac
+forward	foa-wood
+fought	foat
+found	faund
+four	foa
+fox	foeks
+fraction	fraek-xoon
+free	frea
+freedom	frea-doom
+freeze	freaz
+fresh	freex
+friday	frai-dei
+friend	freend
+friendly	freen-dlea
+frightened	frai-toond
+from	froem
+front	friant
+frozen	frou-zoon
+fruit	fruet
+fuchsia	fyue-xoo
+fuel	fyuel
+full	fuul
+fun	fian
+fund	fiand
+funny	fia-nea
+furniture	fua-nii-txoo
+further	fua-coo
+future	fyue-txoo
+game	geim
+garden	gaa-doon
+gave	geiv
+girl	guarl
+gloomy	glue-mea
+god	goed
+gone	goen
+government	gia-voon-moont
+grapnel	graep-nool
+grass	graas
+great	greit
+green	grean
+ground	graund
+grow	grou
+gush	giax
+gyre	djai-oo
+hair	heo
+hallow	hae-lou
+hand	haend
+happeneth	hae-poo-nooc
+hard	haad
+has	haez
+hat	haet
+haunted	hoan-tood
+have	haev
+he	hea
+he'll	heal
+he's	heaz
+head	heed
+heal	heal
+hear	hio
+heard	huad
+heart	haat
+heat	heat
+heel	heal
+held	heeld
+hello	hoo-lou
+help	heelp
+here	hio
+high	hai
+highly	hai-lea
+himself	hiim-seelf
+his	hiiz
+hold	hould
+hole	houl
+honored	oe-nood
+horse	hoas
+house	haus
+how	hau
+human	hyue-moon
+i	ai
+i'll	ail
+imagine	ii-mae-djiin
+important	iim-poa-toont
+in	iin
+increased	iin-kreast
+inner	ii-noo
+innocence	ii-noo-soons
+insects	iin-seekts
+inside	iin-said
+intend	iin-teend
+intensity	iin-teen-sii-tea
+interest	iin-triist
+interesting	iin-tree-stiing
+into	iin-tue
+intricate	iin-trii-koot
+is	iiz
+it	iit
+it's	iits
+its	iits
+itself	iit-seelf
+jaunty	djoan-tea
+jaw	djoa
+joy	djoi
+juggle	djia-gool
+juice	djues
+just	djiast
+keep	keap
+killer	kii-loo
+kind	kaind
+kinds	kaindz
+king	kiing
+klatchian	klae-txion
+knew	nyue
+knife	naif
+knives	naivz
+knowledge	noe-liidj
+knuckles	nia-kools
+lack	laak
+laid	leid
+lamp	laemp
+large	laadj
+larger	laa-djoo
+last	laast
+late	leit
+latter	lae-too
+law	loa
+lazy	lei-zea
+lead%a	lead
+lead%e	leed
+leap	leap
+leather	lee-coo
+leave	leav
+leaves	leavs
+led	leed
+left	leeft
+leg	leeg
+legal	lea-gool
+lend	leend
+length	leengc
+less	lees
+lesson	lee-soon
+let	leet
+letter	lee-too
+letters	lee-tooz
+level	lee-vool
+liberty	lii-boo-tea
+library	lai-broo-rea
+like	laik
+line	lain
+lining	lai-niing
+little	lii-tool
+live%a	laiv
+live%i	liiv
+lives	laivz
+living	lii-viing
+lockpicks	loek-piiks
+london	lian-doon
+long	loeng
+look	luuk
+loosed	luest
+lord	load
+lose	luez
+lots	loets
+love	liav
+loving	lia-viing
+low	lou
+lower	lou-oo
+mad	maed
+made	meid
+make	meik
+male	meil
+matter	mae-too
+may	mei
+me	mea
+mean	mean
+means	meanz
+measure	mee-joo
+melt	meelt
+memory	mee-moo-rea
+men	meen
+mere	mio
+mess	mees
+met	meet
+might	mait
+mind	maind
+mirror	mii-roo
+money	mia-nea
+more	moa
+mother	mia-coo
+mouth	mauc
+much	miatx
+must	miast
+my	mai
+mystery	miis-too-rea
+nap	naep
+nation	nei-xoon
+near	nio
+need	nead
+neither	nai-coo
+never	nee-voo
+new	nyue
+no	nou
+nobly	nou-blea
+nobody	nou-boo-dea
+nor	noa
+nose	nouz
+not	noet
+note	nout
+nothing	nia-ciing
+now	nau
+nurse	nuas
+nutty	nia-tea
+obliteration	oo-blii-too-rei-xoon
+of	oev
+oil	oil
+on	oen
+one	wian
+only	oun-lea
+opened	ou-poond
+or	oa
+order	oa-doo
+other	ia-coo
+others	ia-cooz
+our	aur
+out	aut
+oven	ia-voon
+over	ou-voo
+own	oun
+oyster	oi-stoo
+paid	peid
+pass	paas
+passionate	pae-xoo-noot
+past	paast
+path	paac
+pause	poaz
+pay	pei
+pear	peo
+people	pea-pool
+perish	pee-riix
+permit	poo-miit
+picked	piikt
+pill	piil
+pin	piin
+pipe	paip
+pistol	piis-tool
+place	pleis
+placed	pleist
+plague	pleig
+plaid	plaed
+pockets	poe-kiits
+poem	pou-iim
+poet	pou-iit
+pollinate	poe-loo-neit
+poor	poar
+portion	poar-xoon
+power	pau-oo
+pray	prei
+prayer	preo
+precious	pree-xoos
+previous	prea-vea-oos
+pride	praid
+problem	proe-bloom
+processes	prou-see-siiz
+pronunciation	prou-nian-sii-ei-xoon
+proper	proe-poo
+proposition	proe-poo-zii-xoon
+punch	piantx
+pure	pyua
+purpose	pua-poos
+put	puut
+queer	kwio
+question	kwees-txoon
+questions	kwees-txoonz
+quick	kwiik
+quite	kwait
+race	reis
+rain	rein
+rapier	rei-pio
+rather	raa-coo
+reach	reatx
+read	read
+receipt	rii-seat
+recipe	ree-sii-pea
+refined	rii-faind
+regard	rii-gaad
+remain	rii-mein
+remaining	rii-mei-niing
+remember	rea-meem-boo
+researcher	rea-sua-txoo
+resolve	rii-soelv
+rest	reest
+resting	ree-stiing
+retain	rii-tein
+returned	rii-toond
+riches	rii-txiiz
+ride	raid
+right	rait
+ring	riing
+rings	riingz
+river	rii-voo
+road	roud
+rob	roeb
+robe	roub
+roll	roul
+room	ruem
+roses	rou-zooz
+ruins	rue-iinz
+rush	riax
+said	seed
+sail	seil
+same	seim
+sands	saendz
+satisfied	sae-tiis-faid
+sausage	soe-siidj
+saw	soa
+say	sei
+saying	sei-iing
+says	seez
+science	sai-oons
+scientist	sai-oon-tiist
+score	skoa
+script	skriipt
+sea	sea
+see	sea
+seed	sead
+seek	seak
+seem	seam
+seer	sio
+sees	seaz
+selection	soo-leek-xoon
+sell	seel
+send	seend
+sense	seens
+set	seet
+seven	see-voon
+sew	sou
+shall	xael
+sheaths	xeacs
+shirt	xuat
+shoe	xue
+shop	xoep
+should	xuud
+shoulder	xoul-doo
+sighed	said
+sight	sait
+silhouetted	sii-luu-wee-tood
+silk	siilk
+single	siin-gool
+skill	skiil
+sky	skai
+sleep	sleap
+slim	sliim
+slingshot	sliing-shoet
+slip	sliip
+slipped	sliipt
+slow	slou
+slowly	slou-lea
+slung	sliang
+small	smoal
+smaller	smoa-loo
+smell	smeel
+smile	smail
+smoke	smouk
+snow	snou
+so	sou
+soap	soup
+social	sou-xool
+society	soo-sai-oo-tea
+sock	soek
+soft	soeft
+soil	soil
+soldier	soul-djoo
+solution	soo-lue-xoon
+solve	soelv
+some	siam
+somebody	siam-boo-dea
+someone	siam-wian
+something	siam-ciing
+sometimes	siam-taimz
+son	sian
+song	soeng
+soon	suen
+sorrow	soe-rou
+sorry	soe-rea
+sort	soat
+sound	saund
+sounds	saundz
+soup	suep
+source	soas
+south	sauc
+southern	sia-coon
+space	speis
+speak	speak
+special	spee-xool
+specific	spee-sii-fiik
+specify	spee-sii-fai
+squat	skwoet
+stage	steidj
+stairs	steorz
+steak	steik
+steal	steal
+steel	steal
+stems	steems
+still	stiil
+stones	stounz
+streak	streak
+strong	stroeng
+structure	striak-txoo
+struggled	stria-glood
+studding	stia-diing
+studding-sail	stian-sool
+studying	stia-dea-iing
+subtracts	soob-traekts
+such	siatx
+suddenly	sia-doon-lea
+suffer	sia-foo
+suffix	sia-fiiks
+sugar	xuu-goo
+suggest	soo-djeest
+suit	suet
+suitable	sue-too-bool
+summer	sia-moo
+sun	sian
+sunny	sia-nea
+supply	soo-plai
+support	soo-poat
+sure	xoa
+surely	xoa-lea
+surface	sua-fiis
+surprise	soo-praiz
+susy	sue-zea
+sward	swoad
+sweat	sweet
+sweet	sweat
+swift	swiift
+swim	swiim
+swimming	swii-miing
+sword	soad
+syllable	sii-loo-bool
+symbol	siim-bool
+system	siis-toom
+table	tei-bool
+tail	teil
+take	teik
+taken	tei-koon
+tale	teil
+talk	toak
+tall	toal
+task	taask
+taste	teist
+tax	taeks
+taxi	taek-sea
+tea	tea
+teach	teatx
+teacher	tea-txoo
+team	team
+tear%e	teo
+tear%i	tio
+technology	teek-noe-loo-djea
+teeth	teac
+television	tee-loo-vii-joon
+teppic	tee-piik
+testing	tee-stiing
+than	coon
+that	caet
+the	coo
+their	ceo
+them	ceem
+then	ceen
+there	ceo
+there's	ceorz
+these	ceaz
+they	cei
+thin	ciin
+thing	ciing
+things	ciingz
+think	ciink
+third	cuad
+this	ciis
+thong	coeng
+those	couz
+thought	coat
+through	crue
+throw	crou
+throwing	crou-iing
+thus	cias
+tide	taid
+time	taim
+tin	tiin
+tips	tiips
+tlingas	tliin-gooz
+to	tue
+today	too-dei
+toe	tou
+tomorrow	too-moe-rou
+too	tue
+took	tuuk
+top	toep
+total	tou-tool
+tour	tuer
+tow	tou
+toy	toi
+train	trein
+trees	treaz
+tune	xuen
+turn	tuan
+turned	tuand
+turning	tua-niing
+twisted	twiis-tood
+under	ian-doo
+understand	ian-doo-staand
+understanding	ian-doo-staan-diing
+unfinished	ian-fii-nii-xt
+university	yue-nii-vua-soo-tea
+until	ian-tiil
+up	iap
+upon	oo-poen
+us	ias
+usual	yue-jool
+vague	veig
+vain	vein
+various	veo-rea-oos
+velvet	veel-viit
+verse	vuas
+very	vee-rea
+vest	veest
+via	vai-oo
+view	vyue
+village	vii-liidj
+waist	weist
+walk	woak
+wall	woal
+war	woa
+was	woez
+watch	woetx
+waves	weivs
+waving	wei-viing
+we	wea
+well	weel
+went	weent
+were	wua
+what	woet
+when	ween
+where	weo
+whether	wee-coo
+which	wiitx
+while	wail
+who	hue
+who's	huez
+whole	houl
+whose	huez
+why	wai
+widening	wai-doo-niing
+will	wiil
+winced	wiinst
+windy	wiin-dea
+wine	wain
+wise	waiz
+with	wiic
+without	wii-caut
+woman	wuu-moon
+women	wii-moon
+wonder	wian-doo
+won’t	wount
+wood	wuud
+word	wuad
+words	wuadz
+work	wuak
+worker	wua-koo
+world	wuald
+worry	wia-rea
+worse	wuas
+worst	waust
+would	wuud
+wound%a	waund
+wound%e	wuend
+woven	wou-voon
+write	rait
+writer	rai-too
+written	rii-toon
+wrong	roeng
+wrote	rout
+yard	jaad
+yawn	yoan
+yeah	yee-oo
+year	yio
+years	yiorz
+yell	yeel
+yellow	yee-lou
+yes	yees
+yesterday	yee-stoo-dei
+yet	yeet
+you	yue
+you'll	yuel
+young	yiang
+your	yoa
+yourself	yoa-seelf
+zero	zio-rou
+zigzag	ziig-zaeg
+zoo	zue
+
+circle
+citizen
+city
+claim
+class
+clean
+clearly
+clever
+climb
+clock
+close
+cloth
+clothe
+clothes
+cloud
+cloudy
+coach
+coast
+coffee
+coin
+collect
+collection
+college
+colony
+column
+comb
+comfortable
+commercial
+common
+community
+company
+complete
+computer
+concern
+condition
+conference
+connect
+consider
+consonant
+consumer
+contain
+continue
+control
+cool
+copper
+copy
+corn
+corner
+correct
+cost
+cotton
+count
+country
+couple
+course
+court
+cover
+crash
+crease
+create
+crime
+crop
+cross
+crowd
+cry
+cultural
+culture
+cupboard
+current
+customer
+cut
+dad
+danger
+dangerous
+dark
+data
+daughter
+deal
+death
+debate
+decade
+decide
+decimal
+decision
+decrease
+defense
+degree
+democratic
+depend
+describe
+desert
+design
+desk
+despite
+destroy
+detail
+determine
+develop
+development
+dictionary
+die
+differ
+difference
+different
+difficult
+dinner
+direct
+direction
+director
+dirty
+discover
+discuss
+discussion
+disease
+dish
+distant
+divide
+division
+doctor
+dog
+dollar
+done
+don’t
+double
+draw
+dream
+drink
+drop
+drug
+dry
+duck
+during
+dust
+duty
+each
+early
+earn
+ease
+east
+easy
+eat
+economic
+economy
+edge
+education
+effect
+effort
+egg
+either
+election
+electric
+element
+elephant
+else
+employee
+empty
+end
+enemy
+energy
+engine
+enjoy
+enough
+enter
+entire
+entrance
+environment
+environmental
+fever
+foreign
+forest
+gas
+gate
+gather
+general
+generation
+gentle
+gentleman
+get
+gift
+give
+glad
+glass
+go
+goal
+goat
+gold
+gone
+good
+goodbye
+got
+govern
+grand
+grandfather
+grandmother
+grave
+gray
+grew
+group
+growth
+guess
+guide
+gun
+guy
+had
+half
+hall
+hammer
+hang
+happen
+happy
+hat
+hate
+health
+healthy
+heaven
+heavy
+height
+held
+hen
+her
+hers
+herself
+hide
+hill
+him
+himself
+his
+history
+hit
+hobby
+holiday
+home
+hope
+hospital
+hot
+hotel
+hour
+however
+huge
+hundred
+hungry
+hunt
+hurry
+hurt
+husband
+ice
+idea
+identify
+if
+image
+impact
+improve
+inch
+include
+including
+increase
+indeed
+indicate
+individual
+industry
+information
+insect
+instant
+instead
+institution
+instrument
+interest
+international
+interview
+into
+introduce
+invent
+investment
+invite
+involve
+iron
+island
+issue
+item
+its
+jelly
+job
+join
+jump
+kept
+key
+kid
+kill
+kitchen
+knee
+knock
+know
+ladder
+lady
+lake
+lamp
+land
+language
+lately
+later
+laugh
+lawyer
+lay
+lead
+leader
+leaf
+learn
+least
+lie
+life
+lift
+light
+likely
+line
+lion
+lip
+liquid
+list
+listen
+local
+locate
+lock
+log
+lone
+lonely
+loss
+lost
+lot
+loud
+low
+luck
+machine
+magazine
+magnet
+main
+maintain
+major
+majority
+man
+manage
+management
+manager
+many
+map
+mark
+market
+marriage
+marry
+mass
+master
+match
+material
+maybe
+meal
+meant
+meat
+media
+medical
+medicine
+meet
+meeting
+melody
+member
+mention
+message
+metal
+method
+middle
+mile
+military
+milk
+million
+mine
+minute
+miss
+mission
+missus
+mistake
+mister
+mix
+model
+modern
+molecule
+moment
+monkey
+month
+moon
+morning
+most
+motion
+mount
+mountain
+move
+movement
+movie
+multiply
+music
+must
+myself
+name
+narrow
+national
+natural
+nature
+nearly
+necessary
+neck
+needle
+neighbor
+neighbour
+net
+network
+news
+newspaper
+next
+nice
+night
+nine
+noble
+noise
+none
+noon
+north
+nothing
+notice
+noun
+number
+numeral
+obey
+object
+observe
+occur
+ocean
+off
+offer
+office
+officer
+official
+often
+oh
+oil
+ok
+old
+once
+onto
+open
+operate
+operation
+opportunity
+opposite
+option
+orange
+organ
+organization
+original
+outside
+own
+owner
+oxygen
+page
+pain
+paint
+painting
+pair
+pan
+paper
+paragraph
+parent
+park
+part
+participant
+particular
+particularly
+partner
+party
+pass
+path
+patient
+pattern
+peace
+pen
+pencil
+pepper
+per
+perfect
+perform
+performance
+perhaps
+period
+person
+personal
+petrol
+phone
+photograph
+phrase
+physical
+piano
+pick
+picture
+piece
+pig
+pink
+pitch
+plain
+plan
+plane
+planet
+plant
+plastic
+plate
+play
+player
+please
+pleased
+plenty
+plural
+poem
+point
+poison
+police
+policy
+polite
+political
+politics
+pool
+popular
+populate
+population
+port
+pose
+position
+positive
+possible
+post
+potato
+pound
+practice
+prepare
+present
+president
+press
+pressure
+pretty
+prevent
+price
+prince
+print
+prison
+private
+prize
+probable
+probably
+process
+produce
+product
+production
+professional
+professor
+program
+project
+promise
+property
+protect
+prove
+provide
+public
+pull
+punish
+pupil
+push
+quality
+quart
+queen
+quickly
+quiet
+quotient
+radio
+rail
+rainy
+raise
+ran
+range
+rate
+ready
+real
+reality
+realize
+really
+reason
+receive
+recent
+recently
+recognize
+record
+red
+reduce
+reflect
+region
+relate
+relationship
+religious
+remain
+remind
+remove
+rent
+repair
+repeat
+reply
+report
+represent
+require
+research
+resource
+respond
+response
+responsibility
+restaurant
+result
+return
+reveal
+rice
+rich
+rise
+risk
+rock
+role
+roll
+root
+rope
+rose
+round
+row
+rub
+rubber
+rude
+rule
+ruler
+run
+sad
+safe
+sail
+salt
+sand
+sat
+save
+scale
+scene
+school
+scissors
+search
+season
+seat
+second
+section
+security
+segment
+select
+self
+sell
+senior
+sent
+sentence
+separate
+series
+serious
+serve
+service
+set
+settle
+several
+sex
+sexual
+shade
+shadow
+shake
+shape
+share
+sharp
+she
+sheep
+sheet
+shelf
+shell
+shine
+ship
+shoe
+shoot
+shore
+short
+shot
+shoulder
+shout
+show
+sick
+side
+sign
+signal
+significant
+silence
+silent
+silly
+silver
+similar
+simple
+simply
+since
+sing
+single
+sink
+sister
+sit
+site
+situation
+six
+size
+skin
+skirt
+slave
+speech
+speed
+spell
+spend
+spoke
+spoon
+sport
+spot
+spread
+spring
+square
+staff
+stamp
+stand
+standard
+star
+start
+state
+statement
+station
+stay
+stead
+steal
+steam
+steel
+step
+stick
+stock
+stomach
+stone
+stood
+stop
+store
+storm
+story
+straight
+strange
+strategy
+stream
+street
+stretch
+string
+student
+study
+stuff
+stupid
+style
+subject
+substance
+subtract
+success
+successful
+sudden
+telephone
+tell
+temperature
+ten
+tend
+tennis
+term
+terrible
+test
+thank
+themselves
+theory
+therefore
+thick
+thin
+though
+thousand
+threat
+three
+throughout
+tidy
+tie
+tiny
+tire
+title
+toe
+together
+told
+tone
+tonight
+took
+tool
+tooth
+touch
+tough
+toward
+town
+track
+trade
+traditional
+training
+tram
+travel
+treat
+treatment
+tree
+trial
+triangle
+trip
+trouble
+truck
+true
+trust
+truth
+try
+tube
+twenty
+twice
+two
+type
+ugly
+uncle
+unit
+use
+useful
+usually
+valley
+value
+various
+vary
+vegetable
+verb
+victim
+violence
+visit
+voice
+vote
+vowel
+wait
+wake
+want
+warm
+was
+wash
+waste
+water
+wave
+way
+weak
+weapon
+wear
+weather
+wedding
+week
+weight
+welcome
+west
+western
+wet
+whatever
+wheel
+when
+where
+white
+whom
+wide
+wife
+wild
+win
+wind
+window
+wing
+winter
+wire
+wish
+within

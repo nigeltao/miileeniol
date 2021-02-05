@@ -775,7 +775,7 @@ var dict = map[string]string{
 	"EAGERLY":       "ˈiː g ə l i",
 	"EARTHMOVING":   "ˈɜː θ m uː v ɪ ŋ",
 	"EMBER":         "ˈɛ m b ə",
-	"ENGAGED":       "ɪ n g ˈeɪ dʒ",
+	"ENGAGED":       "ɪ n g ˈeɪ dʒ d",
 	"ENTREATING":    "ɛ n t ɹ ˈiː t ɪ ŋ",
 	"EURASIAN":      "j ʊə ɹ ˈeɪ ʒ ə n",
 	"EVERMORE":      "ˈɛ v ə m ɔː",
